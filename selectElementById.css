@@ -1,0 +1,22 @@
+#head-1{
+    background-color: aquamarine;
+    color: black;
+    text-decoration: underline;
+}
+#head-2{
+    background-color: aquamarine;
+    color: black;
+    text-decoration: underline;
+}
+#head-3{
+    background-color: aquamarine;
+    color: black;
+    text-decoration: underline;
+}
+#para{
+    color: blue;
+}
+#button{
+    background-color: brown;
+    border: 2px;
+}
